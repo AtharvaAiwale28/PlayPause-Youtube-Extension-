@@ -1,2 +1,3 @@
 # PlayPause-Youtube-Extension-
-This is application where you can see your lecture and when you pause the lecture the background music video will on while writing notes and when u start it will stop. 
+This application allows you to view your lecture. When you pause the lecture, a background music video will play while you take notes, and it will stop when you resume the lecture.
+<img width="1302" height="577" alt="image" src="https://github.com/user-attachments/assets/e923dc72-85cd-4d1d-9556-373427f98eb1" />
